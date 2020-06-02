@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url("ak5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+    height: 600px;
+
+}
+.image{
+	width: 40%;
+	height: 40%;
+	margin: 0px auto;
+	display: block;
+	margin-top: 50px;
+	border: 2px solid black;
+}
+
+
+h1{
+font-family:arial;
+font-size: 5em;
+text-align: center;
+color: orange;
+}
+button{
+	font-size: 20px;
+	padding: 10px;
+	margin: 20px;
+}
+#container{
+	text-align: center;
+}
